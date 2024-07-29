@@ -2,7 +2,7 @@
 
 <h2> Cybersecurity Projects</h2>
 
-  - [Linux System Administration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Linux System Administration: Preparing a new server](https://docs.google.com/document/d/1zIajpRCcQqUdOcEY11e-X0r5_kMYxGfFS4GtClt99iI/edit)
   - [Splunk: Designing a monitoring solution](https://docs.google.com/document/d/1_rbQ70GGW6DJGr_tr_Eh3BE0JI4KBWgvycadZHi6bFs/edit)
 
 <h2> Certifications</h2>
