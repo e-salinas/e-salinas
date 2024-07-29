@@ -3,7 +3,7 @@
 <h2> Cybersecurity Projects</h2>
 
   - [Linux System Administration: Preparing a new server](https://docs.google.com/document/d/1zIajpRCcQqUdOcEY11e-X0r5_kMYxGfFS4GtClt99iI/edit)
-  - [Splunk: Designing a monitoring solution](https://docs.google.com/document/d/1_rbQ70GGW6DJGr_tr_Eh3BE0JI4KBWgvycadZHi6bFs/edit)
+  - [Splunk: Designing a monitoring solution](https://github.com/e-salinas/Splunk/blob/main/%3CEsteban%20Salinas%3E%3CM19%20Challange%3E.pdf)
 
 <h2> Certifications</h2>
 
@@ -13,7 +13,7 @@
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="www.linkedin.com/in/esteban-salinas-11bb25291" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
