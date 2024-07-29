@@ -7,7 +7,7 @@
 
 <h2> Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Rice University Cybersecurity Boot Camp](https://rice.credential.getsmarter.com/71d0eff4-a901-4654-8533-a136b9fd0f1f)
 
 <h2> 🤳 Connect with me:</h2>
 
