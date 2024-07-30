@@ -4,6 +4,7 @@
 
   - [Linux System Administration: Preparing a new server](https://docs.google.com/document/d/1zIajpRCcQqUdOcEY11e-X0r5_kMYxGfFS4GtClt99iI/edit)
   - [Splunk: Designing a monitoring solution](https://github.com/e-salinas/Splunk/blob/main/%3CEsteban%20Salinas%3E%3CM19%20Challange%3E.pdf)
+  - [Azure: Building a web application](https://github.com/e-salinas/Projects/blob/main/CloudWebAppProject_ES.pdf)
 
 <h2> Certifications</h2>
 
