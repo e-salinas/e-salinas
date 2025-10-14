@@ -16,11 +16,13 @@
 <ul>
   <li>
     <a href="https://www.credly.com/badges/5316b1a9-f965-4b82-927f-82881234d4ab/public_url" target="_blank">
+      <img src="comptia-security-ce-certification.png" alt="CompTIA Security+ Badge" width="40" style="vertical-align:middle; margin-right:8px;">
       <strong>[CompTIA Security+]</strong>
     </a>
   </li>
   <li>
     <a href="https://rice.credential.getsmarter.com/71d0eff4-a901-4654-8533-a136b9fd0f1f" target="_blank">
+      <img src="fc4ac645-95d4-4887-9aca-678f5f19a9b7.png" alt="Rice University Cybersecurity Boot Camp Badge" width="50" style="vertical-align:middle; margin-right:10px;">
       <strong>[Rice University Cybersecurity Boot Camp]</strong>
     </a>
   </li>
