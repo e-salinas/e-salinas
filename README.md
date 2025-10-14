@@ -3,7 +3,7 @@
 <h2> Home Labs</h2>
 
   - [Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab/tree/main)
-  - [Python Authentication System & Password Checker](https://github.com/e-salinas/Python_AuthenticationSystemandPasswordChecker)
+  - [Python: Authentication System & Password Checker](https://github.com/e-salinas/Python_AuthenticationSystemandPasswordChecker)
     
 <h2> Cyber Bootcamp Projects</h2>
 
