@@ -8,6 +8,7 @@
 
 <h2> Certifications</h2>
 
+- [Comptia Security+] (https://www.credly.com/badges/5316b1a9-f965-4b82-927f-82881234d4ab/linked_in_profile)
 - [Rice University Cybersecurity Boot Camp](https://rice.credential.getsmarter.com/71d0eff4-a901-4654-8533-a136b9fd0f1f)
 
 <h2> 🤳 Connect with me:</h2>
