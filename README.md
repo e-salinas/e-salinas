@@ -2,10 +2,9 @@
 
 <h2> Home Labs</h2>
 
-  - [Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab/tree/main))
-  - [Splunk: Designing a monitoring solution](https://github.com/e-salinas/Splunk/blob/main/%3CEsteban%20Salinas%3E%3CM19%20Challange%3E.pdf)
-  - [Azure: Building a web application](https://github.com/e-salinas/Projects/blob/main/CloudWebAppProject_ES.pdf)
-
+  - [Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab/tree/main)
+  - [Python Authentication System & Password Checker](https://github.com/e-salinas/Python_AuthenticationSystemandPasswordChecker)
+    
 <h2> Cyber Bootcamp Projects</h2>
 
   - [Linux System Administration: Preparing a new server](https://docs.google.com/document/d/1zIajpRCcQqUdOcEY11e-X0r5_kMYxGfFS4GtClt99iI/edit)
