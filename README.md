@@ -1,11 +1,11 @@
 <h1>Hi, I'm Esteban!</h1>
 
-<h2> Home Labs</h2>
+<h2> 🏠 Home Labs</h2>
 
   - [Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab/tree/main)
   - [Python: Authentication System & Password Checker](https://github.com/e-salinas/Python_AuthenticationSystemandPasswordChecker)
     
-<h2>📡 Cyber Bootcamp Projects</h2>
+<h2>🪖 Cyber Bootcamp Projects</h2>
 
 - [Splunk: Designing a monitoring solution](https://github.com/e-salinas/Boot_Camp_Projects/tree/main/Splunk_Monitoring)
 - [Azure: Creating and securing a Web App](https://github.com/e-salinas/Boot_Camp_Projects/tree/main/Azure_WebApp_Lab)
