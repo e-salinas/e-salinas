@@ -7,9 +7,10 @@
     
 <h2>📡 Cyber Bootcamp Projects</h2>
 
+- [Splunk: Designing a monitoring solution](https://github.com/e-salinas/Boot_Camp_Projects/tree/main/Splunk_Monitoring)
 <ul>
   <li><a href="https://docs.google.com/document/d/1zIajpRCcQqUdOcEY11e-X0r5_kMYxGfFS4GtClt99iI/edit" target="_blank">Linux System Administration: Preparing a New Server</a></li>
-  <li><a href="Images/SplunkProject_ES.png" target="_blank">Splunk: Designing a Monitoring Solution</a></li>
+ [Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab/tree/main)
   <li><a href="https://github.com/e-salinas/Projects/blob/main/CloudWebAppProject_ES.pdf" target="_blank">Azure: Building a Web Application</a></li>
 </ul>
 
