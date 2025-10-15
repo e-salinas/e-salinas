@@ -5,11 +5,13 @@
   - [Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab/tree/main)
   - [Python: Authentication System & Password Checker](https://github.com/e-salinas/Python_AuthenticationSystemandPasswordChecker)
     
-<h2> Cyber Bootcamp Projects</h2>
+<h2>📡 Cyber Bootcamp Projects</h2>
 
-  - [Linux System Administration: Preparing a new server](https://docs.google.com/document/d/1zIajpRCcQqUdOcEY11e-X0r5_kMYxGfFS4GtClt99iI/edit)
-  - [Splunk: Designing a monitoring solution](Images/SplunkProject_ES.png)
-  - [Azure: Building a web application](https://github.com/e-salinas/Projects/blob/main/CloudWebAppProject_ES.pdf)
+<ul>
+  <li><a href="https://docs.google.com/document/d/1zIajpRCcQqUdOcEY11e-X0r5_kMYxGfFS4GtClt99iI/edit" target="_blank">Linux System Administration: Preparing a New Server</a></li>
+  <li><a href="Images/SplunkProject_ES.png" target="_blank">Splunk: Designing a Monitoring Solution</a></li>
+  <li><a href="https://github.com/e-salinas/Projects/blob/main/CloudWebAppProject_ES.pdf" target="_blank">Azure: Building a Web Application</a></li>
+</ul>
 
 <h2>📜 Certifications</h2>
 
