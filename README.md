@@ -16,7 +16,7 @@
 <ul>
   <li>
     <a href="https://www.credly.com/badges/5316b1a9-f965-4b82-927f-82881234d4ab/public_url" target="_blank">
-      <img src="comptia-security-ce-certification.png" alt="CompTIA Security+ Badge" width="40" style="vertical-align:middle; margin-right:8px;">
+      <img src="comptia-security-ce-certification.png" alt="CompTIA Security+ Badge" width="50" style="vertical-align:middle; margin-right:10px;">
       <strong>[CompTIA Security+]</strong>
     </a>
   </li>
