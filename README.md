@@ -1,5 +1,19 @@
 <h1>Hi, I'm Esteban!</h1>
 
+<h2>💻 About Me</h2>
+
+<p>
+Security+ certified and actively transitioning in to a cybersecurity role.  
+
+I enjoy tackling technical challenges, exploring new technologies, and documenting my projects to share my progress🚀. My goal is to continue developing my skills and contribute effectively to a cybersecurity team🛡️.
+
+</p>
+
+<p>
+When I'm not in the lab, it's all about books 📚, coffee ☕, and films 🎬.
+</p>
+
+
 <h2> 🏠 Home Labs</h2>
 
   - [Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab/tree/main)
