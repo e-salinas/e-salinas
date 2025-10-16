@@ -9,11 +9,6 @@ I enjoy tackling technical challenges, exploring new technologies, and documenti
 
 </p>
 
-<p>
-When I'm not in the lab, it's all about books 📚, coffee ☕, and films 🎬.
-</p>
-
-
 <h2> 🏠 Home Labs</h2>
 
   - [Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab/tree/main)
