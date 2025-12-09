@@ -10,7 +10,8 @@ I enjoy tackling technical challenges, exploring new technologies, and documenti
 
 ## 🏠 Cyber Home Labs
 
-- [Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab/tree/main)
+- [SOC Analyst Homelab: Wazuh SIEM](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab/tree/main](https://github.com/e-salinas/soc-analyst-homelab))
+- [Brute Force SSH Attack Log Analysis](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab/tree/main)
 - [Python: Authentication System & Password Checker](https://github.com/e-salinas/Python_AuthenticationSystemandPasswordChecker)
 
 ---
