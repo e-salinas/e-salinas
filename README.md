@@ -22,7 +22,6 @@ Enterprise-grade Security Operations Center environment with real-time threat de
 
 **Technologies:** `Wazuh` `Kali Linux` `Ubuntu` `Hydra` `Nmap` `UFW` `MITRE ATT&CK`
 
----
 
 * [Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab)
 * [Python: Authentication System & Password Checker](https://github.com/e-salinas/Python_AuthenticationSystemandPasswordChecker)
