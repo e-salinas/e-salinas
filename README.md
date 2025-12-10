@@ -18,7 +18,6 @@ Enterprise-grade Security Operations Center environment with real-time threat de
 - 🎯 7+ attack scenarios (brute force, malware, privilege escalation, SQL injection)
 - 📋 Professional incident reports with MITRE ATT&CK mapping
 - 📘 Response playbooks following NIST framework
-- ⚡ Achieved <5 min Mean Time to Detect (MTTD)
 
 **Technologies:** `Wazuh` `Kali Linux` `Ubuntu` `Hydra` `Nmap` `UFW` `MITRE ATT&CK`
 
