@@ -10,9 +10,22 @@ I enjoy tackling technical challenges, exploring new technologies, and documenti
 
 ## 🏠 Cyber Home Labs
 
-- [SOC Analyst Homelab: Wazuh SIEM](https://github.com/e-salinas/soc-analyst-homelab)
-- [Brute Force SSH Attack Log Analysis](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab/tree/main)
-- [Python: Authentication System & Password Checker](https://github.com/e-salinas/Python_AuthenticationSystemandPasswordChecker)
+### 🆕 [SOC Analyst Homelab - Wazuh SIEM](https://github.com/e-salinas/soc-analyst-homelab)
+Enterprise-grade Security Operations Center environment with real-time threat detection and incident response.
+
+**Highlights:**
+- 🛡️ Deployed Wazuh SIEM with multi-endpoint monitoring
+- 🎯 7+ attack scenarios (brute force, malware, privilege escalation, SQL injection)
+- 📋 Professional incident reports with MITRE ATT&CK mapping
+- 📘 Response playbooks following NIST framework
+- ⚡ Achieved <5 min Mean Time to Detect (MTTD)
+
+**Technologies:** `Wazuh` `Kali Linux` `Ubuntu` `Hydra` `Nmap` `UFW` `MITRE ATT&CK`
+
+---
+
+* [Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab)
+* [Python: Authentication System & Password Checker](https://github.com/e-salinas/Python_AuthenticationSystemandPasswordChecker)
 
 ---
 
