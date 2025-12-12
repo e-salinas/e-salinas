@@ -8,7 +8,7 @@ I enjoy tackling technical challenges, exploring new technologies, and documenti
 
 ---
 
-## 🏠 Cyber Home Labs
+## 🏠 Home Labs
 
 ### 🆕 [SOC Analyst Homelab - Wazuh SIEM](https://github.com/e-salinas/soc-analyst-homelab)
 Enterprise-grade Security Operations Center environment with real-time threat detection and incident response.
@@ -21,9 +21,18 @@ Enterprise-grade Security Operations Center environment with real-time threat de
 
 **Technologies:** `Wazuh` `Kali Linux` `Ubuntu` `Hydra` `Nmap` `UFW` `MITRE ATT&CK`
 
+### 🛡️ [Microsoft Sentinel SIEM](https://github.com/e-salinas/Sentinel-Lab)
 
-* [Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab)
-* [Python: Authentication System & Password Checker](https://github.com/e-salinas/Python_AuthenticationSystemandPasswordChecker)
+Configured end-to-end Azure security infrastructure including Resource Group, Log Analytics Workspace, Microsoft Sentinel, and Syslog data connector with custom data collection rules
+
+### 🐧 [Linux Command-Line: Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab)
+- Used a Kali VM to simulate a brute-force attack in a controlled lab
+
+---
+
+## Pyhon Projects
+
+### 🐍 [Python: Authentication System & Password Checker](https://github.com/e-salinas/Python_AuthenticationSystemandPasswordChecker)
 
 ---
 
