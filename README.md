@@ -21,12 +21,16 @@ Enterprise-grade Security Operations Center environment with real-time threat de
 
 **Technologies:** `Wazuh` `Kali Linux` `Ubuntu` `Hydra` `Nmap` `UFW` `MITRE ATT&CK`
 
+
+### ✅ [GRC Compliance Lab - CIS Benchmarks & NIST 800-53](https://github.com/e-salinas/grc-compliance-lab-wazuh)
+Assessed Linux server compliance against CIS benchmarks using Wazuh SIEM. Analyzed 279 security checks, categorized findings by control family, and mapped results to NIST 800-53, PCI DSS, and HIPAA frameworks.
+
 ### 🛡️ [Microsoft Sentinel SIEM](https://github.com/e-salinas/Sentinel-Lab)
 
 Configured end-to-end Azure security infrastructure including Resource Group, Log Analytics Workspace, Microsoft Sentinel, and Syslog data connector with custom data collection rules
 
 ### 🐧 [Linux Command-Line: Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab)
-- Used a Kali VM to simulate a brute-force attack in a controlled lab
+- Used a Kali VM to simulate a brute-force attack in a controlled lab and did a log analysis to investigate the breach. 
 
 ---
 
