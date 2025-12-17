@@ -15,7 +15,6 @@ Enterprise-grade Security Operations Center environment with real-time threat de
 
 **Highlights:**
 - 🛡️ Deployed Wazuh SIEM with multi-endpoint monitoring
-- 🎯 7+ attack scenarios (brute force, malware, privilege escalation, SQL injection)
 - 📋 Professional incident reports with MITRE ATT&CK mapping
 - 📘 Response playbooks following NIST framework
 
