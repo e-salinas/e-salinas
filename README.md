@@ -2,9 +2,9 @@
 
 ## 💻 About Me
 
-Security+ certified language professional and actively transitioning into a cybersecurity role.  
+Network + and Security+ certified language professional and actively transitioning into a technical role.  
 
-I enjoy tackling technical challenges, exploring new technologies, and documenting my projects to share my progress 🚀. My goal is to continue developing my skills and contribute effectively to a cybersecurity team 🛡️.
+I enjoy tackling technical challenges, exploring new technologies, and documenting my projects to share my progress. My goal is to continue developing my skills and contribute effectively to a team.
 
 ---
 
