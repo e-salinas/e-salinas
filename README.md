@@ -88,13 +88,6 @@ and log analysis.
 **Skills:** Wazuh, SIEM, Linux, endpoint monitoring, alert triage,
 log analysis
 
-## Additional Projects
-
-- [Splunk Monitoring Project](REPOSITORY-LINK)
-- [Azure Web Application Security Lab](REPOSITORY-LINK)
-- [Python Authentication Security Lab](REPOSITORY-LINK)
-- [React Localization Application](REPOSITORY-LINK)
-
 ## Technical Skills
 
 - **Networking:** TCP/IP, VLANs, trunking, DHCP, DNS, subnetting,
