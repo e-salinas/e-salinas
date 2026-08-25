@@ -106,28 +106,8 @@ log analysis
 - **Systems:** Linux, Windows, Docker, MariaDB
 - **Languages:** English and Spanish
 
-## Connect
-
-- [LinkedIn](YOUR-LINKEDIN-URL)
-- Email: YOUR-PROFESSIONAL-EMAIL
-
----
-
-## 📜 Certifications
-
-- <a href="https://www.credly.com/badges/5316b1a9-f965-4b82-927f-82881234d4ab/public_url" target="_blank">
-    <img src="Images/comptia-security-ce-certification.png" alt="CompTIA Security+ Badge" width="40" style="vertical-align:middle; margin-right:10px;">
-    [CompTIA Security+]
-  </a>
-
-
-
----
-
-## 🤳 Connect with me
+## Connect with me
 
 <a href="https://www.linkedin.com/in/esteban-salinas-11bb25291" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" style="vertical-align:middle; margin-right:5px;">
 </a>
-
-
