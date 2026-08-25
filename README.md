@@ -9,7 +9,7 @@ focus on configuring systems, troubleshooting problems, documenting
 solutions, and investigating security events.
 
 
-## Certifications
+## Certifications & Training
 
 <a href="https://www.credly.com/badges/3f472c34-0d15-4338-9335-daf92a138619/public_url">
   <img
@@ -18,7 +18,7 @@ solutions, and investigating security events.
     width="55"
   >
 </a>
-<a href="YOUR-NETWORK-PLUS-CREDLY-URL">
+<a href="https://www.credly.com/badges/3f472c34-0d15-4338-9335-daf92a138619/public_url">
   CompTIA Network+ (N10-009)
 </a>
 
@@ -37,11 +37,16 @@ solutions, and investigating security events.
 
 <br>
 
-<a href="https://rice.credential.getsmarter.com/71d0eff4-a901-4654-8533-a136b9fd0f1f" target="_blank">
-    <img src="Images/fc4ac645-95d4-4887-9aca-678f5f19a9b7.png" alt="Rice University Cybersecurity Boot Camp Badge" width="40" style="vertical-align:middle; margin-right:10px;">
-    Rice University Cybersecurity Boot Camp
-  </a>
-
+<a href="https://rice.credential.getsmarter.com/71d0eff4-a901-4654-8533-a136b9fd0f1f">
+  <img
+    src="Images/fc4ac645-95d4-4887-9aca-678f5f19a9b7.png"
+    alt="Rice University Cybersecurity Boot Camp badge"
+    width="55"
+  >
+</a>
+<a href="https://rice.credential.getsmarter.com/71d0eff4-a901-4654-8533-a136b9fd0f1f">
+  Rice University Cybersecurity Boot Camp
+</a>
 
 ## Networking
 
