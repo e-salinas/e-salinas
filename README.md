@@ -1,54 +1,81 @@
-# Hi, I'm Esteban!
+# Esteban Salinas
 
-## 💻 About Me
+Security+ and Network+ certified IT professional building hands-on
+experience in network deployment, technical support, and cybersecurity.
 
-Network + and Security+ certified language professional and actively transitioning into a technical role.  
+I bring more than 10 years of analytical and team-lead experience
+supporting federal law-enforcement investigations. My technical projects
+focus on configuring systems, troubleshooting problems, documenting
+solutions, and investigating security events.
 
-I enjoy tackling technical challenges, exploring new technologies, and documenting my projects to share my progress. My goal is to continue developing my skills and contribute effectively to a team.
+## Certifications
 
----
+- CompTIA Network+ (N10-009)
+- CompTIA Security+ (SY0-701)
+- Rice University Cybersecurity Boot Camp
 
-## 🏠 Home Labs
+## Networking
 
-### 🆕 [SOC Analyst Homelab - Wazuh SIEM](https://github.com/e-salinas/soc-analyst-homelab)
-Enterprise-grade Security Operations Center environment with real-time threat detection and incident response.
+### [Network Deployment & Troubleshooting Lab](https://github.com/e-salinas/network-deployment-lab)
 
-**Highlights:**
-- 🛡️ Deployed Wazuh SIEM with multi-endpoint monitoring
-- 📋 Professional incident reports with MITRE ATT&CK mapping
-- 📘 Response playbooks following NIST framework
+Built and troubleshot a Cisco Packet Tracer network using VLANs,
+802.1Q trunking, router-on-a-stick, DHCP, inter-VLAN routing, and a
+dedicated management VLAN.
 
-**Technologies:** `Wazuh` `Kali Linux` `Ubuntu` `Hydra` `Nmap` `UFW` `MITRE ATT&CK`
+**Skills:** Cisco IOS, VLANs, DHCP, subnetting, routing, switching,
+connectivity testing, network documentation
+
+## IT Support
+
+### [osTicket IT Support Lab](https://github.com/e-salinas/osticket-lab)
+
+Deployed osTicket and MariaDB with Docker and configured a fictional
+organization with agents, users, departments, roles, SLAs, Help Topics,
+and realistic support tickets.
+
+**Skills:** Ticket management, troubleshooting documentation, Docker,
+MariaDB, customer communication, escalation workflows
 
 
-### ✅ [GRC Compliance Lab - CIS Benchmarks & NIST 800-53](https://github.com/e-salinas/grc-compliance-lab-wazuh)
-Assessed Linux server compliance against CIS benchmarks using Wazuh SIEM. Analyzed 279 security checks, categorized findings by control family, and mapped results to NIST 800-53, PCI DSS, and HIPAA frameworks.
+## Cybersecurity
 
-### 🛡️ [Microsoft Sentinel SIEM](https://github.com/e-salinas/Sentinel-Lab)
+### [Sentinel Lab](https://github.com/e-salinas/microsoft-sentinel-soc-lab)
 
-Configured end-to-end Azure security infrastructure including Resource Group, Log Analytics Workspace, Microsoft Sentinel, and Syslog data connector with custom data collection rules
+Microsoft Sentinel SOC lab featuring Linux log ingestion, KQL-based threat detection, entity mapping, incident investigation, and NSG threat blocking..
 
-### 🐧 [Linux Command-Line: Brute Force SSH Attack & Detection Lab](https://github.com/e-salinas/SSH_BruteForce_LogAnalysis_Lab)
-- Used a Kali VM to simulate a brute-force attack in a controlled lab and did a log analysis to investigate the breach. 
+**Skills:** microsoft-sentinel, azure, siem, kql, log-analytics, incident-response, threat-detection, soc-lab
 
----
+### [Wazuh SOC Homelab](https://github.com/e-salinas/wazuh-soc-homelab)
 
-## Pyhon Projects
+Created a defensive monitoring environment with a Wazuh manager,
+monitored endpoint, and Kali attack system for alert investigation
+and log analysis.
 
-### 🐍 [Python: Authentication System & Password Checker](https://github.com/e-salinas/Python_AuthenticationSystemandPasswordChecker)
+**Skills:** Wazuh, SIEM, Linux, endpoint monitoring, alert triage,
+log analysis
 
----
+## Additional Projects
 
-## 🪖 Cyber Bootcamp Projects
+- [Splunk Monitoring Project](REPOSITORY-LINK)
+- [Azure Web Application Security Lab](REPOSITORY-LINK)
+- [Python Authentication Security Lab](REPOSITORY-LINK)
+- [React Localization Application](REPOSITORY-LINK)
 
-- [Splunk: Designing a monitoring solution](https://github.com/e-salinas/Boot_Camp_Projects/tree/main/Splunk_Monitoring)
-- [Azure: Creating and securing a Web App](https://github.com/e-salinas/Boot_Camp_Projects/tree/main/Azure_WebApp_Lab)
+## Technical Skills
 
----
+- **Networking:** TCP/IP, VLANs, trunking, DHCP, DNS, subnetting,
+  inter-VLAN routing, Cisco IOS
+- **IT Support:** Ticket management, user support, troubleshooting,
+  documentation, escalation
+- **Security:** Wazuh, Splunk, Microsoft Sentinel, log analysis,
+  incident response, vulnerability and compliance concepts
+- **Systems:** Linux, Windows, Docker, MariaDB
+- **Languages:** English and Spanish
 
-## 🌐 Localization Projects
+## Connect
 
-- [React App Localization with Crowdin Integration](https://github.com/e-salinas/localization-app) – Demonstrates modern localization workflows using Crowdin for translation management, including continuous localization through automated GitHub integration.
+- [LinkedIn](YOUR-LINKEDIN-URL)
+- Email: YOUR-PROFESSIONAL-EMAIL
 
 ---
 
