@@ -75,9 +75,9 @@ MariaDB, customer communication, escalation workflows
 
 ### [Sentinel Lab](https://github.com/e-salinas/microsoft-sentinel-soc-lab)
 
-Microsoft Sentinel SOC lab featuring Linux log ingestion, KQL-based threat detection, entity mapping, incident investigation, and NSG threat blocking..
+Microsoft Sentinel SOC lab featuring Linux log ingestion, KQL-based threat detection, entity mapping, incident investigation, and NSG threat blocking.
 
-**Skills:** microsoft-sentinel, azure, siem, kql, log-analytics, incident-response, threat-detection, soc-lab
+**Skills:** Microsoft Sentinel, Microsoft Azure, SIEM, KQL, Log Analytics, incident response, threat detection
 
 ### [Wazuh SOC Homelab](https://github.com/e-salinas/wazuh-soc-homelab)
 
