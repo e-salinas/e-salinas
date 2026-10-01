@@ -1,12 +1,8 @@
 # Esteban Salinas
 
-Security+ and Network+ certified IT professional building hands-on
-experience in network deployment, technical support, and cybersecurity.
+Network+ and Security+ certified professional building hands-on IT experience through labs in network deployment, technical support, and cybersecurity.
 
-I bring more than 10 years of analytical and team-lead experience
-supporting federal law-enforcement investigations. My technical projects
-focus on configuring systems, troubleshooting problems, documenting
-solutions, and investigating security events.
+I bring more than 10 years of analytical work and team leadership supporting federal law enforcement investigations. My projects focus on configuring systems, troubleshooting problems, documenting solutions, and investigating security events.
 
 
 ## Certifications & Training
