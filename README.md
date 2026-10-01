@@ -93,7 +93,6 @@ log analysis
 - **Security:** Wazuh, Splunk, Microsoft Sentinel, log analysis,
   incident response, vulnerability and compliance concepts
 - **Systems:** Linux, Windows, Docker, MariaDB
-- **Languages:** English and Spanish
 
 ## Connect with me
 
