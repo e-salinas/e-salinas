@@ -66,6 +66,14 @@ and realistic support tickets.
 **Skills:** Ticket management, troubleshooting documentation, Docker,
 MariaDB, customer communication, escalation workflows
 
+## Linux Administration
+
+### [Linux Systems Administration Lab](https://github.com/e-salinas/linux-systems-admin-lab)
+
+Created Linux users and groups, configured sudo access and a shared directory, tested permitted and denied access, and reviewed a Lynis system audit.
+
+**Skills:** Linux, users and groups, permissions, sudo, access verification, audit findings
+
 
 ## Cybersecurity
 
@@ -83,6 +91,12 @@ and log analysis.
 
 **Skills:** Wazuh, SIEM, Linux, endpoint monitoring, alert triage,
 log analysis
+
+### [Wazuh GRC Compliance Lab](https://github.com/e-salinas/grc-compliance-lab-wazuh)
+
+Used Wazuh to assess an Ubuntu endpoint against a CIS Benchmark, reviewed exported configuration-check results and framework references, and prepared an assessment report.
+
+**Skills:** Security configuration assessment, CIS Benchmarks, evidence review, compliance documentation
 
 ## Technical Skills
 
