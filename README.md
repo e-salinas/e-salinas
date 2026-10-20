@@ -79,18 +79,15 @@ Created Linux users and groups, configured sudo access and a shared directory, t
 
 ### [Sentinel Lab](https://github.com/e-salinas/microsoft-sentinel-soc-lab)
 
-Microsoft Sentinel SOC lab featuring Linux log ingestion, KQL-based threat detection, entity mapping, incident investigation, and NSG threat blocking.
+Collected Linux authentication logs in Microsoft Sentinel, used KQL to investigate SSH password-guessing activity, configured entity mapping, and documented an incident and an NSG deny rule.
 
-**Skills:** Microsoft Sentinel, Microsoft Azure, SIEM, KQL, Log Analytics, incident response, threat detection
+**Skills:** Microsoft Sentinel, Azure, KQL, log analysis, entity mapping, incident documentation
 
 ### [Wazuh SOC Homelab](https://github.com/e-salinas/wazuh-soc-homelab)
 
-Created a defensive monitoring environment with a Wazuh manager,
-monitored endpoint, and Kali attack system for alert investigation
-and log analysis.
+Built a Wazuh monitoring lab to investigate Linux authentication events and test-file changes. Documented two exercises with incident reports, response playbooks, and supporting screenshots.
 
-**Skills:** Wazuh, SIEM, Linux, endpoint monitoring, alert triage,
-log analysis
+**Skills:** Wazuh, Linux, SIEM, file-integrity monitoring, alert investigation, technical documentation
 
 ### [Wazuh GRC Compliance Lab](https://github.com/e-salinas/grc-compliance-lab-wazuh)
 
